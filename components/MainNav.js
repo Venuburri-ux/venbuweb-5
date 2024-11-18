@@ -34,7 +34,7 @@ const MainNav = () => {
   return (
     <Navbar expanded={isExpanded} fixed="top" style={{ backgroundColor: '#2C3E50' }} expand="lg">
       <Container>
-        <Navbar.Brand href="/" style={{ color: 'white', fontWeight: 'bold' }}>Param Katrodia</Navbar.Brand>
+        <Navbar.Brand href="/" style={{ color: 'white', fontWeight: 'bold' }}>Venu Burri</Navbar.Brand>
         <Navbar.Toggle onClick={toggleNavbar} />
         <Navbar.Collapse>
           <Nav className="me-auto">
